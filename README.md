@@ -9,6 +9,6 @@ Notable Projects:
 - [Skryble - Polish skribbl.io alternative](https://github.com/smartfrigde/skryble)
 
 ![smartfridges's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartfrigde&show_icons=true&theme=dark)
-[![](https://discord.c99.nl/widget/theme-3/424639027606585356.png)](https://discord.com/users/424639027606585356)
+
 
 [readme thing I stole](https://github.com/kckarnige/kckarnige/blob/master/README.md)

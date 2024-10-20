@@ -1,9 +1,8 @@
-## what's up 👋
-I'm smartfridge and my code is ✨big spaghetti✨! Enjoy.
-
-
-Notable Projects:
+# Hey, I'm Patrick!
+A self-taught full-stack developer       
+Cool Projects:
 - [Legcord - A custom Discord client](https://github.com/armcord/armcord) 
-- [Kelly - AI chat bot created for support on ArmCord Discord Server](https://github.com/ArmCord/Kelly)   
+- [Change screenshare quality on Discord web!](https://github.com/Legcord/shelter-plugins)   
    
-![smartfridges's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartfrigde&show_icons=true&theme=dark)
+![smartfridges's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartfrigde&show_icons=true&theme=dark)     
+![](https://komarev.com/ghpvc/?username=smartfrigde)

@@ -2,6 +2,8 @@
 A self-taught full-stack developer       
 Cool Projects:
 - [Legcord - A custom Discord client](https://github.com/armcord/armcord) 
-- [Change screenshare quality on Discord web!](https://github.com/Legcord/shelter-plugins)   
+- [pzurek.dev - My Website, please check it out](https://github.com/Legcord/shelter-plugins)
+- [osxfetch - a neofetch-like CLI tool for vintage Macs](https://github.com/smartfrigde/osxfetch)
+- more on my website!
    
 ![](https://komarev.com/ghpvc/?username=smartfrigde)

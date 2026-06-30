@@ -7,3 +7,6 @@ A self-taught full-stack developer
 - more on my website!
    
 ![](https://komarev.com/ghpvc/?username=smartfrigde)
+
+<img width="1236" height="1236" alt="image" src="https://github.com/user-attachments/assets/94d7d807-e097-47c0-8e1c-2a425f56f230" />
+
